@@ -1,0 +1,12 @@
+c:\src\ModeladoFIFO\bin\Debug\netcoreapp3.0\ModeladoFIFO.exe
+C:\src\ModeladoFIFO\bin\Debug\netcoreapp3.0\ModeladoFIFO.deps.json
+C:\src\ModeladoFIFO\bin\Debug\netcoreapp3.0\ModeladoFIFO.runtimeconfig.json
+C:\src\ModeladoFIFO\bin\Debug\netcoreapp3.0\ModeladoFIFO.runtimeconfig.dev.json
+c:\src\ModeladoFIFO\bin\Debug\netcoreapp3.0\ModeladoFIFO.dll
+c:\src\ModeladoFIFO\bin\Debug\netcoreapp3.0\ModeladoFIFO.pdb
+c:\src\ModeladoFIFO\obj\Debug\netcoreapp3.0\ModeladoFIFO.csprojAssemblyReference.cache
+c:\src\ModeladoFIFO\obj\Debug\netcoreapp3.0\ModeladoFIFO.csproj.CoreCompileInputs.cache
+c:\src\ModeladoFIFO\obj\Debug\netcoreapp3.0\ModeladoFIFO.AssemblyInfoInputs.cache
+c:\src\ModeladoFIFO\obj\Debug\netcoreapp3.0\ModeladoFIFO.AssemblyInfo.cs
+c:\src\ModeladoFIFO\obj\Debug\netcoreapp3.0\ModeladoFIFO.dll
+c:\src\ModeladoFIFO\obj\Debug\netcoreapp3.0\ModeladoFIFO.pdb
